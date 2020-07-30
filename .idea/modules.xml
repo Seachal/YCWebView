@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-YCWebView.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-YCWebView.iml" group="YCWebView" />
       <module fileurl="file://$PROJECT_DIR$/WebViewLib/WebViewLib.iml" filepath="$PROJECT_DIR$/WebViewLib/WebViewLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/YCWebView.iml" filepath="$PROJECT_DIR$/YCWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YCWebView-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YCWebView-app.iml" group="YCWebView/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebViewLib/cn.yc-WebViewLib.iml" filepath="$PROJECT_DIR$/.idea/modules/WebViewLib/cn.yc-WebViewLib.iml" group="YCWebView/WebViewLib" />
     </modules>
   </component>
 </project>
